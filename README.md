@@ -1,4 +1,6 @@
 # Voice-Gender-Recognition-System-Using-Machine-Learning
+# Title: Voice Gender Recognition System Using Machine Learning
+# Ide Used : JUPYTER Notebook
 # Introduction:
 Voice gender recognition using machine learning techniques, aiming to explore the effectiveness of various algorithms in accurately classifying gender from voice signals. By leveraging a diverse dataset comprising voice recordings from speakers of different genders, we seek to analyze the performance of different machine learning models, including K-Nearest Neighbors, Naive Bayes, Decision Tree, Random Forest, XG Boost, Support Vector Machine and Neural Network.Our approach involves several key steps, including preprocessing, visualizing, model training, and performance evaluation, thereby enhancing the efficiency and accuracy of the model. In preprocessing we used Label Encoder to normalize labels, and then visualize the data, and then  we use most significant features Q25, IQR and meanfun. And then we used algorithms for  training and testing of the model and find the highest accuracy of the model.
 # Proposed Methodology:
